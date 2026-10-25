@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=YOUR_NAME&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Security%20%E2%80%A2%20AI%20Agents&descAlignY=58&descSize=20" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=DEEPAK%20KUMAR.S&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Security%20%E2%80%A2%20AI%20Agents&descAlignY=58&descSize=20" alt="header" width="100%"/>
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+developer+%7C+security+%7C+AI+agents;Building+%22Socket%22%3A+a+plugin-driven+terminal+workbench;Python+%E2%80%A2+Linux+%E2%80%A2+Automation+%E2%80%A2+Kali;Teaching+AI+agents+to+write+and+secure+code" alt="Typing animation" />
